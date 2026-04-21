@@ -1,2 +1,2 @@
-# OwnMole
-Dataset of my own Mole
+# MalariaSegmentation
+Counting plasmodium infected Erythorcyte.
